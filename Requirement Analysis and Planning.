@@ -1,0 +1,94 @@
+Requirement Analysis and Planning.
+1.	Gather detailed requirements: This involves collecting and documenting all the necessary information about the project, including the needs and expectations of the stakeholders, users, and the business.
+2.	Define user stories and use cases: User stories are brief descriptions of the project's functionality from the user's perspective, while use cases describe the interactions between the user and the system. This task helps to identify the functional requirements of the project.
+3.	Identify functional and non-functional requirements: Functional requirements describe what the system must do, while non-functional requirements describe how the system should perform. This task involves identifying and documenting both types of requirements.
+4.	Document edge cases and error handling scenarios: Edge cases refer to unusual or extreme scenarios that the system may encounter, while error handling scenarios describe how the system should respond to errors or exceptions. This task involves documenting these scenarios to ensure the system is robust and can handle unexpected situations
+Based on the Requirement Analysis and Planning phase of the VisionMate project, the required data can be categorized into the following:
+Functional Requirements:
+1.	User Stories:
+•	As a visually impaired user, I want to receive real-time GPS-based navigation with audio cues for directions so that I can navigate unfamiliar environments safely.
+•	As a visually impaired user, I want to receive voice prompts for nearby points of interest, intersections, and obstacles so that I can avoid hazards.
+•	As a visually impaired user, I want to be able to request assistance from a remote assistant in case of an emergency so that I can get help when needed.
+2.	Use Cases:
+•	User requests navigation to a specific location
+•	User receives real-time navigation instructions
+•	User encounters an obstacle or hazard
+•	User requests assistance from a remote assistant
+3.	Functional Requirements:
+•	Real-time GPS-based navigation with audio cues for directions
+•	Voice prompts for nearby points of interest, intersections, and obstacles
+•	Integration with map services (e.g., Google Maps) for accurate location tracking
+•	Remote assistance feature for emergency situations
+Non-Functional Requirements:
+1.	Performance Requirements:
+•	Response time for navigation instructions: < 2 seconds
+•	Accuracy of location tracking: < 10 meters
+2.	Security Requirements:
+•	Data encryption for user location and navigation data
+•	Secure authentication and authorization for remote assistance feature
+3.	Usability Requirements:
+•	Intuitive user interface for visually impaired users
+•	Clear and concise audio cues and voice prompts
+•	Simple and easy-to-use remote assistance feature
+Edge Cases and Error Handling Scenarios:
+1.	Edge Cases:
+•	User is in a location with poor GPS signal strength
+•	User is in a location with no internet connectivity
+•	User encounters an unexpected obstacle or hazard
+2.	Error Handling Scenarios:
+•	Navigation instructions are not received within the expected timeframe
+•	Voice prompts are not clear or are interrupted
+•	Remote assistance feature is unavailable or unresponsive
+Member 1: Karen (Visually Impaired User)
+•	Age: 50
+•	Occupation: Retiree
+•	Requirements:
+•	Voice prompts for nearby points of interest, intersections, and obstacles
+•	Real-time GPS-based navigation with audio cues for directions
+•	Simple and easy-to-use interface for visually impaired users
+•	Analysis: Karen requires a system that provides voice prompts for nearby points of interest, intersections, and obstacles, real-time GPS-based navigation with audio cues for directions, and a simple and easy-to-use interface for visually impaired users.
+Member 2: Brian (Developer)
+•	Age: 35
+•	Occupation: iOS Developer
+•	Requirements:
+•	API documentation for integration with iOS app
+•	Access to GPS and location services
+•	Integration with Google Maps API for accurate location tracking
+•	Analysis: Brian requires a system that provides API documentation for integration with the iOS app, access to GPS and location services, and integration with Google Maps API for accurate location tracking.
+Member 3: Sophia (UX Designer)
+•	Age: 28
+•	Occupation: UX Designer
+•	Requirements:
+•	Intuitive user interface for visually impaired users
+•	Clear and concise audio cues and voice prompts
+•	Simple and easy-to-use interface for caregivers
+•	Analysis: Sophia requires a system that provides an intuitive user interface for visually impaired users, clear and concise audio cues and voice prompts, and a simple interface for caregivers.
+Member 4: Mark (Project Manager)
+•	Age: 48
+•	Occupation: Project Manager
+•	Requirements:
+•	Project timeline and milestones
+•	Resource allocation and budget planning
+•	Risk management and mitigation strategies
+•	Analysis: Mark requires a system that provides a clear project timeline and milestones, resource allocation and budget planning, and risk management and mitigation strategies to ensure the project is completed on time and within budget.
+Member 5: Olivia (QA Engineer)
+•	Age: 32
+•	Occupation: QA Engineer
+•	Requirements:
+•	Testing framework for API and iOS app
+•	Test cases for navigation and remote assistance features
+•	Bug tracking and reporting system
+•	Analysis: Olivia requires a system that provides a testing framework for the API and iOS app, test cases for navigation and remote assistance features, and a bug tracking and reporting system to ensure the system is thoroughly tested and bug-free.
+analysing the requirements of these 5 members, we can identify the key functional and non-functional requirements for the VisionMate project, including:
+•	Real-time GPS-based navigation with audio cues for directions
+•	Voice prompts for nearby points of interest, intersections, and obstacles
+•	Integration with map services (e.g., Google Maps) for accurate location tracking
+•	Remote assistance feature for emergency situations
+•	Intuitive user interface for visually impaired users
+•	Clear and concise audio cues and voice prompts
+•	Simple and easy-to-use interface for caregivers
+•	API documentation for integration with Android and iOS apps
+•	Access to GPS and location services
+•	Integration with database and AI/ML models
+•	Server-side logic for navigation and remote assistance features
+•	Testing framework for API
